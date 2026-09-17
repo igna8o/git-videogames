@@ -30,9 +30,10 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
 
-- Tetris
+Es un puzzle puzzlon, muchos puzzles de juntar piezas y bla bla y algo mas seguro.
+[Wikipedia](https://es.wikipedia.org/wiki/Tetris)
+- [Tetris](./puzzle/tetris.md)
 
 ## Sandbox
 
